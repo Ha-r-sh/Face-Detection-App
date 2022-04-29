@@ -2,7 +2,7 @@
 
 
 
-Objective - To create a face detection web app using computer vision and have Continuous improvement and continuous delivery of the app using Devops.
+Objective - To create a face detection web app using computer vision and have continuous improvement and continuous delivery of the app using Devops.
 
 Technology used : Reactjs, Nodejs, MongoDB, Clarifai CV API, GitHub, Heroku.
 
